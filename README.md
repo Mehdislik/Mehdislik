@@ -1,28 +1,53 @@
+# 👋 Hi, I'm Mehdi Sofiane Debbah — currently based in Paris 🇫🇷
 
-# 👋 Hi there, I'm Mehdi Sofiane Debbah
+I'm an engineer interested in **DevOps, AI, cloud, networking, and 5G/O-RAN**.
 
-👨‍💻 **DevOps Engineer | Python Developer | Network & Cloud Specialist**  
+I enjoy working on projects where software, infrastructure, and networks come together, especially when there is something to automate, optimize, or improve.
 
-🔭 **Currently working on:**  
-- Developing high-performance **REST APIs** with **Python (FastAPI)** for IoT and Cloud platforms.  
-- Automating cloud infrastructure using **Terraform**, **Ansible**, and managing **Kubernetes** clusters.  
-- Building secure and scalable network solutions integrating **Docker**, **Kubernetes**, and **cloud services (AWS/GCP)**.  
+## 🚀 What I'm working on
 
-🌱 **Currently learning:**  
-- Advanced **Cloud Security** and **DevSecOps** practices.  
-- Optimizing **network protocols** and performance in **5G** and **Edge Computing** environments.  
-- Scaling distributed systems with **microservices** and **event-driven architectures**.  
+* Building APIs and backend services with **Python** and **FastAPI**
+* Automating infrastructure with **Terraform** and **Ansible**
+* Working with **Docker**, **Kubernetes**, **AWS**, and **GCP**
+* Learning more about **5G/O-RAN**, edge computing, and network optimization
+* Exploring how **AI** can be used to improve future network systems
 
-💬 **Ask me about:**  
-- Building and deploying efficient **REST APIs** with **Python**.  
-- Automating deployments with **Infrastructure as Code (IaC)**.  
-- Designing secure and scalable **network architectures**.  
+## 🌱 What I'm interested in
 
-📫 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/mehdi-sofiane-debbah-392a751a3/)  
-- [GitHub](https://github.com/Mehdislik)  
-- 📧 Email: mehdi.debbah@hotmail.fr  
+I'm particularly interested in:
 
-⚡ **Fun fact:**  
-I love blending **Python development**, **cloud automation**, and **network engineering** to create powerful, scalable systems!  
-`
+* Artificial Intelligence
+* DevOps and DevSecOps
+* Cloud and Edge Computing
+* 5G / O-RAN
+* IoT
+* Cybersecurity and Privacy
+* Network Optimization
+* Energy-Efficient Computing
+* Distributed Systems
+
+## 🛠️ Some tools I use
+
+**Languages:** Python, Bash, Java
+**DevOps:** Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, Jenkins
+**Cloud:** AWS, Google Cloud Platform
+**Backend:** FastAPI, REST APIs
+**Networking:** 5G, O-RAN, IoT, Edge Computing
+
+## 💬 Feel free to talk to me about
+
+Python, DevOps, cloud infrastructure, Kubernetes, networking, 5G/O-RAN, AI, or research ideas around future intelligent networks.
+
+## 📫 You can find me here
+
+* 🌐 CV: [Check out my CV](https://mehdislik.github.io/mycv/)
+* 💻 GitHub: [github.com/Mehdislik](https://github.com/Mehdislik)
+* 📧 Email: [mehdi.debbah@hotmail.fr](mailto:mehdi.debbah@hotmail.fr)
+
+## ⚡ A bit about me
+
+I like learning by building things, testing new technologies, and understanding how systems work under the hood.
+
+Right now, I'm especially interested in the intersection of **AI, DevOps, cloud, and next-generation networks**.
+
+Thanks for stopping by 👋
